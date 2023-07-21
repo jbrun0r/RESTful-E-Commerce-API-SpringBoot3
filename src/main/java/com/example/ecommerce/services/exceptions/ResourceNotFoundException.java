@@ -1,4 +1,4 @@
-package com.example.ecommerce.services.exception;
+package com.example.ecommerce.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
 
